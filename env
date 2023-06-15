@@ -1,0 +1,3 @@
+PORT=5000
+CONNECTION_URL ="mongodb+srv://kjuricic:testtest@cluster0.vskusjx.mongodb.net/test?retryWrites=true&w=majority"
+CONNECTION_URL_TEST ="mongodb+srv://kjuricic:testtest@cluster0.vskusjx.mongodb.net/testiranjebaze?retryWrites=true&w=majority"

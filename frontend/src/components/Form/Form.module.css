@@ -1,0 +1,17 @@
+.paper {
+    padding: var(--theme-spacing-2);
+}
+
+.form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: #bdbdbd;
+}
+
+.fileInput {
+    width: 97%;
+    margin: 10px 0;
+    background-color: #bdbdbd;
+}
+
